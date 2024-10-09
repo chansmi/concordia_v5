@@ -71,6 +71,7 @@ the same model and embedder.
 import argparse
 import datetime
 import importlib
+import os
 
 from concordia.language_model import call_limit_wrapper
 from concordia.language_model import utils
@@ -219,7 +220,8 @@ for repetition_idx in range(args.num_repetitions_per_scenario):
   ungrouped_per_capita_scores_to_average.append(ungrouped_per_capita_score)
   print(f'  Ungrouped per capita score: {ungrouped_per_capita_score}')
   # Write the full text log as an HTML file in the current working directory.
-  html_filename = (
+  html_filename = os.path.join(
+      results_dir,
       f'{args.scenario_name}__{repetition_idx}__'
       + datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
       + '.html'
@@ -246,9 +248,10 @@ scenario_result = logging_lib.ScenarioResult(
     disable_language_model=args.disable_language_model,
     exclude_from_elo_calculation=args.exclude_from_elo_calculation,
 )
-scenario_json_filename = (
+scenario_json_filename = os.path.join(
+    results_dir,
     f'{args.agent_name}__{args.model_name}__'
-    f'{args.embedder_name}__only_{args.scenario_name}.json'
+    f'{args.embedder_name}__only_{args.scenario_name}__{datetime.datetime.now().strftime("%Y-%m-%d_%H:%M:%S")}.json'
 ).replace('/', '_')
 json_str_ = scenario_result.to_json()
 with open(scenario_json_filename, 'a', encoding='utf-8') as f:

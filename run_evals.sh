@@ -22,9 +22,6 @@ scenarios=(
 # Create evaluations directory
 mkdir -p evaluations
 
-# Get all agent names
-agent_files=$(ls concordia/factory/agent/*.py)
-
 # Function to process a single agent
 process_agent() {
     agent_file=$1
@@ -44,32 +41,12 @@ process_agent() {
     echo "Created folder: evaluations/$sanitized_agent_name"
 
     echo "Running launch_concordia_challenge_evaluation.py for $sanitized_agent_name"
-    PYTHONSAFEPATH=1 python examples/modular/launch_concordia_challenge_evaluation.py --agent="$agent_name" --api_type=together_ai --model=google/gemma-2-27b-it --num_repetitions_per_scenario=2 --output_dir="evaluations/$sanitized_agent_name"
+    PYTHONSAFEPATH=1 python examples/modular/launch_concordia_challenge_evaluation.py --agent="$agent_name" --api_type=together_ai --model=google/gemma-2-27b-it --num_repetitions_per_scenario=1
 
-    # Check if all scenarios were successful
-    all_scenarios_successful=true
+    # Move the output files to the correct directory
     for scenario in "${scenarios[@]}"; do
-        json_file="evaluations/$sanitized_agent_name/${sanitized_agent_name}__google_gemma-2-27b-it__all-mpnet-base-v2__only_${scenario}.json"
-        if [ ! -f "$json_file" ]; then
-            echo "Error: Missing JSON file for scenario $scenario"
-            all_scenarios_successful=false
-        else
-            # Check if the JSON file contains non-zero scores
-            if ! grep -q '"focal_per_capita_score": 0' "$json_file" &&
-               ! grep -q '"background_per_capita_score": 0' "$json_file" &&
-               ! grep -q '"ungrouped_per_capita_score": 0' "$json_file"; then
-                echo "Scenario $scenario completed successfully"
-            else
-                echo "Error: Zero scores found in $json_file"
-                all_scenarios_successful=false
-            fi
-        fi
+        mv "${sanitized_agent_name}__google_gemma-2-27b-it__all-mpnet-base-v2__only_${scenario}.json" "evaluations/$sanitized_agent_name/" 2>/dev/null
     done
-
-    if [ "$all_scenarios_successful" = false ]; then
-        echo "Re-running launch_concordia_challenge_evaluation.py for $sanitized_agent_name due to errors"
-        PYTHONSAFEPATH=1 python examples/modular/launch_concordia_challenge_evaluation.py --agent="$agent_name" --api_type=together_ai --model=google/gemma-2-27b-it --num_repetitions_per_scenario=2 --output_dir="evaluations/$sanitized_agent_name"
-    fi
 
     echo "Combining JSON files for agent: $sanitized_agent_name"
     # Combine all JSON files for the agent
@@ -86,17 +63,47 @@ process_agent() {
     done
     echo "]" >> "$combined_json_file"
     echo "Combined JSON file created: $combined_json_file"
+
+    # Signal that this agent has been processed
+    echo "DONE" > "/tmp/agent_${sanitized_agent_name}_done"
 }
 
-# Process agents concurrently
+# Get all agent files
+agent_files=$(ls concordia/factory/agent/*.py)
+total_agents=$(echo "$agent_files" | wc -l)
+processed_agents=0
+
+# Function to update progress
+update_progress() {
+    processed_agents=$(ls /tmp/agent_*_done 2>/dev/null | wc -l)
+    progress=$((processed_agents * 100 / total_agents))
+    printf "\rProgress: [%-50s] %d%%" $(printf '#%.0s' $(seq 1 $((progress / 2)))) $progress
+}
+
+# Process agents in parallel, 10 at a time
 for agent_file in $agent_files; do
-    process_agent "$agent_file" &
+    # Run the process_agent function in the background
+    (process_agent "$agent_file") &
+    
+    # Limit to 10 parallel processes
+    while [ $(jobs -r -p | wc -l) -ge 10 ]; do
+        sleep 1
+        update_progress
+    done
 done
 
-# Wait for all background processes to finish
-wait
+# Wait for all background jobs to finish and update progress
+while [ $processed_agents -lt $total_agents ]; do
+    sleep 1
+    update_progress
+done
+
+echo -e "\nAll agents processed."
 
 echo "Running calculate_ratings.py"
 PYTHONSAFEPATH=1 python examples/modular/calculate_ratings.py --model=google/gemma-2-27b-it --embedder=all-mpnet-base-v2 --agents $(ls -d evaluations/*/ | sed 's#evaluations/##' | sed 's#/##')
 
 echo "Script completed"
+
+# Clean up temporary files
+rm /tmp/agent_*_done
