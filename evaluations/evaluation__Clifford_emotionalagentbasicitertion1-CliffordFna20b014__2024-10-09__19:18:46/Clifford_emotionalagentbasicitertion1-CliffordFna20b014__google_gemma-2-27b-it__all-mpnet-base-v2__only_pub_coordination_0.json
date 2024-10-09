@@ -1,0 +1,15 @@
+{
+  "scenario": "pub_coordination_0",
+  "focal_agent": "Clifford_emotionalagentbasicitertion1-CliffordFna20b014",
+  "background_agent": "rational_agent",
+  "focal_per_capita_score": 1.0,
+  "background_per_capita_score": 1.5,
+  "ungrouped_per_capita_score": 1.125,
+  "simulation_outcomes": [],
+  "focal_is_resident": true,
+  "api_type": "together_ai",
+  "model": "google/gemma-2-27b-it",
+  "embedder": "all-mpnet-base-v2",
+  "disable_language_model": false,
+  "exclude_from_elo_calculation": false
+}
