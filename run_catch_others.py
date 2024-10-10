@@ -28,8 +28,15 @@ def process_agent(agent):
     global processed_agents
     print(f"Processing agent: {agent}")
 
+    # Set the PYTHONPATH
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    python_path = os.path.dirname(current_dir)
+    env = os.environ.copy()
+    env['PYTHONPATH'] = f"{python_path}:{env.get('PYTHONPATH', '')}"
+    env['PYTHONSAFEPATH'] = '1'
+
     command = [
-        "python",
+        sys.executable,  # Use the same Python interpreter as the current script
         "examples/modular/launch_concordia_challenge_evaluation.py",
         f"--agent={agent}",
         "--api_type=together_ai",
@@ -38,10 +45,13 @@ def process_agent(agent):
     ]
 
     try:
-        subprocess.run(command, check=True, env={**os.environ, 'PYTHONSAFEPATH': '1'})
+        result = subprocess.run(command, check=True, env=env,
+                                capture_output=True, text=True)
         print(f"Successfully processed {agent}")
+        print(f"Output: {result.stdout}")
     except subprocess.CalledProcessError as e:
         print(f"Error processing {agent}: {e}")
+        print(f"Error output: {e.stderr}")
 
     processed_agents += 1
     update_progress()

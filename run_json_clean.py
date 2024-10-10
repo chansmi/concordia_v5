@@ -30,8 +30,15 @@ def main():
     # Run calculate_ratings.py on the compiled folder
     agent_files = [f.stem for f in compiled_folder.glob('*.json')]
     if agent_files:
-        subprocess.run(['python', 'examples/modular/calculate_ratings.py',
-                        '--agents'] + agent_files)
+        try:
+            subprocess.run(['python3', 'examples/modular/calculate_ratings.py',
+                            '--agents'] + agent_files, check=True)
+        except FileNotFoundError:
+            try:
+                subprocess.run(['python', 'examples/modular/calculate_ratings.py',
+                                '--agents'] + agent_files, check=True)
+            except FileNotFoundError:
+                print("Error: Neither 'python3' nor 'python' command was found. Please ensure Python is installed and in your system PATH.")
     else:
         print("No agent files found in the compiled_jsons folder.")
 
