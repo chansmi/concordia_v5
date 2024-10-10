@@ -1,0 +1,15 @@
+{
+  "scenario": "reality_show_circa_2003_stag_hunt_0",
+  "focal_agent": "kevin_simple_agent",
+  "background_agent": "paranoid_agent",
+  "focal_per_capita_score": 33.0,
+  "background_per_capita_score": 29.666666666666668,
+  "ungrouped_per_capita_score": 30.5,
+  "simulation_outcomes": [],
+  "focal_is_resident": false,
+  "api_type": "together_ai",
+  "model": "google/gemma-2-27b-it",
+  "embedder": "all-mpnet-base-v2",
+  "disable_language_model": false,
+  "exclude_from_elo_calculation": false
+}

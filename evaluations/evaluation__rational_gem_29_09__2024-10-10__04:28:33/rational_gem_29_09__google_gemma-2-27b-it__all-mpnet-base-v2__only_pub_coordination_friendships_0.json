@@ -1,0 +1,15 @@
+{
+  "scenario": "pub_coordination_friendships_0",
+  "focal_agent": "rational_gem_29_09",
+  "background_agent": "rational_agent",
+  "focal_per_capita_score": 1.6888888888888889,
+  "background_per_capita_score": 1.6533333333333333,
+  "ungrouped_per_capita_score": 1.68,
+  "simulation_outcomes": [],
+  "focal_is_resident": true,
+  "api_type": "together_ai",
+  "model": "google/gemma-2-27b-it",
+  "embedder": "all-mpnet-base-v2",
+  "disable_language_model": false,
+  "exclude_from_elo_calculation": false
+}

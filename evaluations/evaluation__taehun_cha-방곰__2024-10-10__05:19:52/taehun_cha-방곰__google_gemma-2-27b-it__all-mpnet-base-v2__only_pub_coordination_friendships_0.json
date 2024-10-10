@@ -1,0 +1,15 @@
+{
+  "scenario": "pub_coordination_friendships_0",
+  "focal_agent": "taehun_cha-\u1107\u1161\u11bc\u1100\u1169\u11b7",
+  "background_agent": "rational_agent",
+  "focal_per_capita_score": 1.5055555555555555,
+  "background_per_capita_score": 1.7466666666666666,
+  "ungrouped_per_capita_score": 1.5658333333333334,
+  "simulation_outcomes": [],
+  "focal_is_resident": true,
+  "api_type": "together_ai",
+  "model": "google/gemma-2-27b-it",
+  "embedder": "all-mpnet-base-v2",
+  "disable_language_model": false,
+  "exclude_from_elo_calculation": false
+}

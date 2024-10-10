@@ -1,0 +1,647 @@
+Jack Taylor; ; {}; []
+Lennon Figtree; ; {}; []
+Lennon Figtree; ; {}; []
+Della Plumstone; ; {}; []
+Alice Lewis; ; {}; []
+Alice Lewis; ; {}; []
+Jack Taylor; ; {}; []
+Travis Pearson; ; {}; []
+Jack Taylor; ; {}; []
+Della Plumstone; ; {}; []
+Jack Taylor; ; {}; []
+Lennon Figtree; ; {}; []
+Lennon Figtree; ; {}; []
+Ryan Fitzpatrick; ; {}; []
+Alexander White; ; {}; []
+Travis Pearson; ; {}; []
+Alexander White; ; {}; []
+Ryan Fitzpatrick; ; {}; []
+Cedric Meadowbrook; Cedric Meadowbrook: 3, Della Plumstone: 3; {'Della Plumstone': [3]}; ['Della Plumstone']
+Della Plumstone; Della Plumstone: 3, Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3]}; ['Cedric Meadowbrook']
+Cedric Meadowbrook; ; {}; []
+Alexander White; ; {}; []
+Della Plumstone; ; {'Cedric Meadowbrook': [3]}; ['Cedric Meadowbrook']
+Derek Wolfe; ; {}; []
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Cedric Meadowbrook; ; {'Della Plumstone': [3]}; ['Della Plumstone']
+Cedric Meadowbrook; ; {}; []
+Jack Taylor; ; {}; []
+Alexander White; ; {}; []
+Alice Lewis; ; {}; []
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Travis Pearson; ; {}; []
+Ryan Fitzpatrick; ; {}; []
+Lennon Figtree; Lennon Figtree: 3, Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3]}; ['Cedric Meadowbrook']
+Lennon Figtree; ; {}; []
+Jack Taylor; ; {}; []
+Ryan Fitzpatrick; ; {}; []
+Alice Lewis; ; {}; []
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Jack Taylor; ; {}; []
+Cedric Meadowbrook; ; {'Della Plumstone': [3]}; ['Della Plumstone']
+Cedric Meadowbrook; ; {}; []
+Silas Redburn; ; {}; []
+Derek Wolfe; ; {}; []
+Silas Redburn; ; {}; []
+Millicent Cartwright; ; {}; []
+Jack Taylor; ; {}; []
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Lennon Figtree; ; {'Cedric Meadowbrook': [3]}; ['Cedric Meadowbrook']
+Alexander White; ; {}; []
+Susannah Blackburn; ; {}; []
+Alexander White; ; {}; []
+Susannah Blackburn; ; {}; []
+Cedric Meadowbrook; ; {'Della Plumstone': [3]}; ['Della Plumstone']
+Alice Lewis; ; {}; []
+Alice Lewis; ; {}; []
+Susannah Blackburn; Susannah Blackburn: 3, Lucinda Mayfield: 3, Millicent Cartwright: 3; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright']
+Derek Wolfe; ; {}; []
+Lennon Figtree; ; {'Cedric Meadowbrook': [3]}; ['Cedric Meadowbrook']
+Lennon Figtree; ; {}; []
+Della Plumstone; ; {'Cedric Meadowbrook': [3]}; ['Cedric Meadowbrook']
+Travis Pearson; ; {}; []
+Cedric Meadowbrook; ; {}; []
+Silas Redburn; Silas Redburn: 3, Lucinda Mayfield: 3, Millicent Cartwright: 3; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright']
+Della Plumstone; ; {'Cedric Meadowbrook': [3]}; ['Cedric Meadowbrook']
+Derek Wolfe; ; {}; []
+Lennon Figtree; ; {'Cedric Meadowbrook': [3]}; ['Cedric Meadowbrook']
+Jack Taylor; ; {}; []
+Travis Pearson; ; {}; []
+Lennon Figtree; ; {}; []
+Susannah Blackburn; ; {}; []
+Ryan Fitzpatrick; ; {}; []
+Alice Lewis; Alice Lewis: 3; {}; []
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Alexander White; ; {}; []
+Ryan Fitzpatrick; ; {}; []
+Cedric Meadowbrook; Cedric Meadowbrook: 3, Della Plumstone: 3; {'Della Plumstone': [3, 3]}; ['Della Plumstone']
+Derek Wolfe; ; {}; []
+Della Plumstone; ; {'Cedric Meadowbrook': [3]}; ['Cedric Meadowbrook']
+Travis Pearson; ; {}; []
+Lennon Figtree; ; {}; []
+Travis Pearson; ; {}; []
+Jack Taylor; ; {}; []
+Della Plumstone; ; {'Cedric Meadowbrook': [3]}; ['Cedric Meadowbrook']
+Silas Redburn; Silas Redburn: 3, Lucinda Mayfield: 3, Millicent Cartwright: 3, Susannah Blackburn: 3, Josephine Blackwood: 3; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3], 'Susannah Blackburn': [3], 'Josephine Blackwood': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Susannah Blackburn', 'Josephine Blackwood']
+Millicent Cartwright; ; {}; []
+Cedric Meadowbrook; ; {}; []
+Alexander White; ; {}; []
+Alice Lewis; ; {}; []
+Millicent Cartwright; ; {}; []
+Derek Wolfe; ; {}; []
+Silas Redburn; Silas Redburn: 3; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright']
+Cedric Meadowbrook; ; {'Della Plumstone': [3, 3]}; ['Della Plumstone']
+Susannah Blackburn; Susannah Blackburn: 3; {}; []
+Travis Pearson; Ryan Fitzpatrick: 3, Derek Wolfe: 3, Travis Pearson: 3; {'Ryan Fitzpatrick': [3], 'Derek Wolfe': [3]}; ['Ryan Fitzpatrick', 'Derek Wolfe']
+Susannah Blackburn; ; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright']
+Jack Taylor; ; {}; []
+Lennon Figtree; ; {'Cedric Meadowbrook': [3]}; ['Cedric Meadowbrook']
+Cedric Meadowbrook; ; {}; []
+Jack Taylor; ; {}; []
+Alexander White; ; {}; []
+Alice Lewis; ; {}; []
+Cedric Meadowbrook; Cedric Meadowbrook: 3, Lennon Figtree: 3; {'Lennon Figtree': [3]}; ['Lennon Figtree']
+Cedric Meadowbrook; ; {'Della Plumstone': [3, 3]}; ['Della Plumstone']
+Lennon Figtree; ; {}; []
+Alice Lewis; ; {}; []
+Susannah Blackburn; ; {}; []
+Derek Wolfe; ; {}; []
+Lennon Figtree; ; {}; []
+Alexander White; ; {}; []
+Lennon Figtree; ; {'Cedric Meadowbrook': [3]}; ['Cedric Meadowbrook']
+Cedric Meadowbrook; ; {'Lennon Figtree': [3]}; ['Lennon Figtree']
+Susannah Blackburn; Susannah Blackburn: 3, Lucinda Mayfield: 3, Josephine Blackwood: 3; {'Lucinda Mayfield': [3], 'Josephine Blackwood': [3]}; ['Lucinda Mayfield', 'Josephine Blackwood']
+Cedric Meadowbrook; ; {'Della Plumstone': [3, 3]}; ['Della Plumstone']
+Travis Pearson; ; {'Ryan Fitzpatrick': [3], 'Derek Wolfe': [3]}; ['Ryan Fitzpatrick', 'Derek Wolfe']
+Silas Redburn; ; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3], 'Susannah Blackburn': [3], 'Josephine Blackwood': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Susannah Blackburn', 'Josephine Blackwood']
+Millicent Cartwright; ; {}; []
+Jack Taylor; ; {}; []
+Alexander White; ; {}; []
+Susannah Blackburn; ; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright']
+Derek Wolfe; ; {}; []
+Alice Lewis; ; {}; []
+Derek Wolfe; ; {}; []
+Travis Pearson; ; {'Ryan Fitzpatrick': [3], 'Derek Wolfe': [3]}; ['Ryan Fitzpatrick', 'Derek Wolfe']
+Susannah Blackburn; Susannah Blackburn: 3, Lucinda Mayfield: 3, Josephine Blackwood: 3; {'Lucinda Mayfield': [3, 3], 'Josephine Blackwood': [3, 3]}; ['Lucinda Mayfield', 'Josephine Blackwood']
+Ryan Fitzpatrick; ; {}; []
+Derek Wolfe; Ryan Fitzpatrick: 3, Derek Wolfe: 3, Travis Pearson: 3; {'Ryan Fitzpatrick': [3], 'Travis Pearson': [3]}; ['Ryan Fitzpatrick', 'Travis Pearson']
+Travis Pearson; ; {'Ryan Fitzpatrick': [3], 'Derek Wolfe': [3]}; ['Ryan Fitzpatrick', 'Derek Wolfe']
+Alice Lewis; ; {}; []
+Alexander White; ; {}; []
+Jack Taylor; ; {}; []
+Derek Wolfe; ; {'Ryan Fitzpatrick': [3], 'Travis Pearson': [3]}; ['Ryan Fitzpatrick', 'Travis Pearson']
+Travis Pearson; ; {'Ryan Fitzpatrick': [3], 'Derek Wolfe': [3]}; ['Ryan Fitzpatrick', 'Derek Wolfe']
+Derek Wolfe; ; {'Ryan Fitzpatrick': [3], 'Travis Pearson': [3]}; ['Ryan Fitzpatrick', 'Travis Pearson']
+Silas Redburn; ; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3], 'Susannah Blackburn': [3], 'Josephine Blackwood': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Susannah Blackburn', 'Josephine Blackwood']
+Susannah Blackburn; ; {'Lucinda Mayfield': [3, 3], 'Josephine Blackwood': [3, 3]}; ['Lucinda Mayfield', 'Josephine Blackwood']
+Travis Pearson; ; {'Ryan Fitzpatrick': [3], 'Derek Wolfe': [3]}; ['Ryan Fitzpatrick', 'Derek Wolfe']
+Travis Pearson; ; {'Ryan Fitzpatrick': [3], 'Derek Wolfe': [3]}; ['Ryan Fitzpatrick', 'Derek Wolfe']
+Millicent Cartwright; Millicent Cartwright: 3; {}; []
+Susannah Blackburn; ; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright']
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Ryan Fitzpatrick; ; {}; []
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Derek Wolfe; ; {'Ryan Fitzpatrick': [3], 'Travis Pearson': [3]}; ['Ryan Fitzpatrick', 'Travis Pearson']
+Millicent Cartwright; ; {}; []
+Travis Pearson; ; {'Ryan Fitzpatrick': [3], 'Derek Wolfe': [3]}; ['Ryan Fitzpatrick', 'Derek Wolfe']
+Ryan Fitzpatrick; ; {}; []
+Jack Taylor; Jack Taylor: 3; {'Jack Taylor': [3]}; ['Jack Taylor']
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Della Plumstone, Della Plumstone: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Millicent Cartwright; ; {}; []
+Silas Redburn; Silas Redburn: 3; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3], 'Susannah Blackburn': [3], 'Josephine Blackwood': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Susannah Blackburn', 'Josephine Blackwood']
+Travis Pearson; ; {'Ryan Fitzpatrick': [3], 'Derek Wolfe': [3]}; ['Ryan Fitzpatrick', 'Derek Wolfe']
+Susannah Blackburn; Susannah Blackburn: 3; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright']
+Derek Wolfe; ; {'Ryan Fitzpatrick': [3], 'Travis Pearson': [3]}; ['Ryan Fitzpatrick', 'Travis Pearson']
+Ryan Fitzpatrick; ; {}; []
+Silas Redburn; ; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright']
+Derek Wolfe; ; {'Ryan Fitzpatrick': [3], 'Travis Pearson': [3]}; ['Ryan Fitzpatrick', 'Travis Pearson']
+Silas Redburn; ; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright']
+Travis Pearson; ; {'Ryan Fitzpatrick': [3], 'Derek Wolfe': [3]}; ['Ryan Fitzpatrick', 'Derek Wolfe']
+Susannah Blackburn; ; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright']
+Lennon Figtree; Lennon Figtree: 3; {'Lennon Figtree': [3]}; ['Lennon Figtree']
+Della Plumstone; Della Plumstone: 3; {'Della Plumstone': [3]}; ['Della Plumstone']
+Susannah Blackburn; ; {'Lucinda Mayfield': [3, 3], 'Josephine Blackwood': [3, 3]}; ['Lucinda Mayfield', 'Josephine Blackwood']
+Ryan Fitzpatrick; ; {}; []
+Derek Wolfe; Ryan Fitzpatrick: 3, Derek Wolfe: 3, Travis Pearson: 3; {'Ryan Fitzpatrick': [3, 3], 'Travis Pearson': [3, 3]}; ['Ryan Fitzpatrick', 'Travis Pearson']
+Alexander White; Alexander White: 3; {'Alexander White': [3]}; ['Alexander White']
+Alice Lewis; Alice Lewis: 3; {'Alice Lewis': [3]}; ['Alice Lewis']
+Lennon Figtree; Lennon Figtree: 3; {'Lennon Figtree': [3]}; ['Lennon Figtree']
+Interaction involving Della Plumstone, Della Plumstone: 0.0, {}
+Travis Pearson; ; {'Ryan Fitzpatrick': [3], 'Derek Wolfe': [3]}; ['Ryan Fitzpatrick', 'Derek Wolfe']
+Silas Redburn; ; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3], 'Susannah Blackburn': [3], 'Josephine Blackwood': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Susannah Blackburn', 'Josephine Blackwood']
+Travis Pearson; ; {'Ryan Fitzpatrick': [3], 'Derek Wolfe': [3]}; ['Ryan Fitzpatrick', 'Derek Wolfe']
+Derek Wolfe; ; {'Ryan Fitzpatrick': [3, 3], 'Travis Pearson': [3, 3]}; ['Ryan Fitzpatrick', 'Travis Pearson']
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Susannah Blackburn; Susannah Blackburn: 3, Lucinda Mayfield: 3, Millicent Cartwright: 3, Silas Redburn: 3; {'Lucinda Mayfield': [3, 3], 'Millicent Cartwright': [3, 3], 'Silas Redburn': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Silas Redburn']
+Ryan Fitzpatrick; ; {}; []
+Susannah Blackburn; Susannah Blackburn: 3; {'Lucinda Mayfield': [3, 3], 'Josephine Blackwood': [3, 3]}; ['Lucinda Mayfield', 'Josephine Blackwood']
+Silas Redburn; Silas Redburn: 3; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright']
+Silas Redburn; Silas Redburn: 3; {'Silas Redburn': [3]}; ['Silas Redburn']
+Derek Wolfe; Derek Wolfe: 3; {'Derek Wolfe': [3]}; ['Derek Wolfe']
+Jack Taylor; Jack Taylor: 3; {'Jack Taylor': [3, 3]}; ['Jack Taylor']
+Ryan Fitzpatrick; Ryan Fitzpatrick: 3; {'Ryan Fitzpatrick': [3]}; ['Ryan Fitzpatrick']
+Millicent Cartwright; Millicent Cartwright: 3; {}; []
+Silas Redburn; Silas Redburn: 3; {'Silas Redburn': [3]}; ['Silas Redburn']
+Alice Lewis; Alice Lewis: 3; {'Alice Lewis': [3]}; ['Alice Lewis']
+Alexander White; Alexander White: 3; {'Alexander White': [3]}; ['Alexander White']
+Millicent Cartwright; Millicent Cartwright: 3; {'Millicent Cartwright': [3]}; ['Millicent Cartwright']
+Susannah Blackburn; Susannah Blackburn: 3; {'Lucinda Mayfield': [3, 3], 'Josephine Blackwood': [3, 3]}; ['Lucinda Mayfield', 'Josephine Blackwood']
+Silas Redburn; Silas Redburn: 3; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright']
+Millicent Cartwright; Millicent Cartwright: 3; {}; []
+Travis Pearson; Travis Pearson: 3; {'Travis Pearson': [3]}; ['Travis Pearson']
+Lennon Figtree; Lennon Figtree: 3; {'Lennon Figtree': [3, 3]}; ['Lennon Figtree']
+Della Plumstone; Della Plumstone: 3; {'Della Plumstone': [3, 3]}; ['Della Plumstone']
+Lennon Figtree; Lennon Figtree: 3; {'Lennon Figtree': [3, 3]}; ['Lennon Figtree']
+Silas Redburn; Silas Redburn: 3; {'Silas Redburn': [3, 3]}; ['Silas Redburn']
+Silas Redburn; ; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3], 'Susannah Blackburn': [3], 'Josephine Blackwood': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Susannah Blackburn', 'Josephine Blackwood']
+Travis Pearson; Travis Pearson: 3; {'Travis Pearson': [3, 3]}; ['Travis Pearson']
+Jack Taylor; Jack Taylor: 3; {'Jack Taylor': [3]}; ['Jack Taylor']
+Susannah Blackburn; Susannah Blackburn: 3; {'Susannah Blackburn': [3]}; ['Susannah Blackburn']
+Silas Redburn; ; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3], 'Susannah Blackburn': [3], 'Josephine Blackwood': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Susannah Blackburn', 'Josephine Blackwood']
+Jack Taylor; Jack Taylor: 3; {'Jack Taylor': [3]}; ['Jack Taylor']
+Ryan Fitzpatrick; ; {}; []
+Cedric Meadowbrook; Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3]}; ['Cedric Meadowbrook']
+Derek Wolfe; Derek Wolfe: 3; {'Derek Wolfe': [3, 3]}; ['Derek Wolfe']
+Cedric Meadowbrook; Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3]}; ['Cedric Meadowbrook']
+Della Plumstone; Della Plumstone: 3; {'Della Plumstone': [3, 3, 3]}; ['Della Plumstone']
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Silas Redburn; ; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3], 'Susannah Blackburn': [3], 'Josephine Blackwood': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Susannah Blackburn', 'Josephine Blackwood']
+Ryan Fitzpatrick; Ryan Fitzpatrick: 3; {'Ryan Fitzpatrick': [3, 3]}; ['Ryan Fitzpatrick']
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Susannah Blackburn; ; {'Lucinda Mayfield': [3, 3], 'Millicent Cartwright': [3, 3], 'Silas Redburn': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Silas Redburn']
+Susannah Blackburn; Susannah Blackburn: 3; {'Susannah Blackburn': [3]}; ['Susannah Blackburn']
+Derek Wolfe; Derek Wolfe: 3; {'Derek Wolfe': [3, 3, 3]}; ['Derek Wolfe']
+Alice Lewis; Alice Lewis: 3; {'Alice Lewis': [3, 3]}; ['Alice Lewis']
+Silas Redburn; Silas Redburn: 3; {'Silas Redburn': [3, 3]}; ['Silas Redburn']
+Ryan Fitzpatrick; ; {}; []
+Cedric Meadowbrook; Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3, 3]}; ['Cedric Meadowbrook']
+Della Plumstone; Della Plumstone: 3; {'Della Plumstone': [3, 3, 3, 3]}; ['Della Plumstone']
+Cedric Meadowbrook; Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3, 3]}; ['Cedric Meadowbrook']
+Millicent Cartwright; Millicent Cartwright: 3; {'Millicent Cartwright': [3, 3]}; ['Millicent Cartwright']
+Travis Pearson; Travis Pearson: 3; {'Travis Pearson': [3, 3, 3]}; ['Travis Pearson']
+Alice Lewis; Alice Lewis: 3; {'Alice Lewis': [3, 3]}; ['Alice Lewis']
+Silas Redburn; ; {'Lucinda Mayfield': [3], 'Millicent Cartwright': [3], 'Susannah Blackburn': [3], 'Josephine Blackwood': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Susannah Blackburn', 'Josephine Blackwood']
+Ryan Fitzpatrick; Ryan Fitzpatrick: 3; {'Ryan Fitzpatrick': [3, 3, 3]}; ['Ryan Fitzpatrick']
+Susannah Blackburn; ; {'Lucinda Mayfield': [3, 3], 'Millicent Cartwright': [3, 3], 'Silas Redburn': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Silas Redburn']
+Jack Taylor; Jack Taylor: 3; {'Jack Taylor': [3, 3]}; ['Jack Taylor']
+Derek Wolfe; Derek Wolfe: 3; {'Derek Wolfe': [3, 3, 3, 3]}; ['Derek Wolfe']
+Susannah Blackburn; Susannah Blackburn: 3; {'Susannah Blackburn': [3, 3]}; ['Susannah Blackburn']
+Jack Taylor; Jack Taylor: 3; {'Jack Taylor': [3, 3]}; ['Jack Taylor']
+Lennon Figtree; Lennon Figtree: 3; {'Lennon Figtree': [3, 3, 3]}; ['Lennon Figtree']
+Silas Redburn; Silas Redburn: 3; {'Silas Redburn': [3, 3, 3]}; ['Silas Redburn']
+Cedric Meadowbrook; Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3, 3, 3]}; ['Cedric Meadowbrook']
+Millicent Cartwright; Millicent Cartwright: 3; {'Millicent Cartwright': [3, 3, 3]}; ['Millicent Cartwright']
+Ryan Fitzpatrick; ; {}; []
+Alexander White; Alexander White: 3; {'Alexander White': [3, 3]}; ['Alexander White']
+Travis Pearson; Travis Pearson: 3; {'Travis Pearson': [3, 3, 3, 3]}; ['Travis Pearson']
+Alexander White; Alexander White: 3; {'Alexander White': [3, 3]}; ['Alexander White']
+Silas Redburn; Silas Redburn: 3, Lucinda Mayfield: 3, Susannah Blackburn: 3, Millicent Cartwright: 3, Josephine Blackwood: 3; {'Lucinda Mayfield': [3, 3], 'Millicent Cartwright': [3, 3], 'Susannah Blackburn': [3, 3], 'Josephine Blackwood': [3, 3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Susannah Blackburn', 'Josephine Blackwood']
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Susannah Blackburn; ; {'Lucinda Mayfield': [3, 3], 'Millicent Cartwright': [3, 3], 'Silas Redburn': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Silas Redburn']
+Ryan Fitzpatrick; ; {}; []
+Lennon Figtree; Lennon Figtree: 3; {'Lennon Figtree': [3, 3, 3]}; ['Lennon Figtree']
+Cedric Meadowbrook; Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3, 3, 3]}; ['Cedric Meadowbrook']
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Millicent Cartwright; Millicent Cartwright: 3; {'Millicent Cartwright': [3, 3, 3, 3]}; ['Millicent Cartwright']
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Ryan Fitzpatrick; ; {}; []
+Silas Redburn; Silas Redburn: 3; {'Silas Redburn': [3, 3, 3]}; ['Silas Redburn']
+Jack Taylor; Jack Taylor: 3; {'Jack Taylor': [3, 3, 3]}; ['Jack Taylor']
+Derek Wolfe; Derek Wolfe: 3; {'Derek Wolfe': [3, 3, 3, 3, 3]}; ['Derek Wolfe']
+Ryan Fitzpatrick; Ryan Fitzpatrick: 3; {'Ryan Fitzpatrick': [3, 3, 3, 3]}; ['Ryan Fitzpatrick']
+Interaction involving Della Plumstone, Della Plumstone: 0.0, {}
+Susannah Blackburn; Susannah Blackburn: 3; {'Lucinda Mayfield': [3, 3], 'Millicent Cartwright': [3, 3], 'Silas Redburn': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Silas Redburn']
+Silas Redburn; Silas Redburn: 3; {'Lucinda Mayfield': [3, 3], 'Millicent Cartwright': [3, 3], 'Susannah Blackburn': [3, 3], 'Josephine Blackwood': [3, 3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Susannah Blackburn', 'Josephine Blackwood']
+Della Plumstone; Della Plumstone: 3; {'Della Plumstone': [3, 3, 3, 3, 3]}; ['Della Plumstone']
+Silas Redburn; Silas Redburn: 3; {'Silas Redburn': [3, 3, 3, 3]}; ['Silas Redburn']
+Jack Taylor; Jack Taylor: 3; {'Jack Taylor': [3, 3, 3]}; ['Jack Taylor']
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Susannah Blackburn; Susannah Blackburn: 3; {'Lucinda Mayfield': [3, 3], 'Millicent Cartwright': [3, 3], 'Silas Redburn': [3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Silas Redburn']
+Silas Redburn; Silas Redburn: 3; {'Lucinda Mayfield': [3, 3], 'Millicent Cartwright': [3, 3], 'Susannah Blackburn': [3, 3], 'Josephine Blackwood': [3, 3]}; ['Lucinda Mayfield', 'Millicent Cartwright', 'Susannah Blackburn', 'Josephine Blackwood']
+Ryan Fitzpatrick; ; {}; []
+Susannah Blackburn; Susannah Blackburn: 3; {'Susannah Blackburn': [3, 3, 3]}; ['Susannah Blackburn']
+Ryan Fitzpatrick; Ryan Fitzpatrick: 3; {'Ryan Fitzpatrick': [3, 3, 3, 3, 3]}; ['Ryan Fitzpatrick']
+Lennon Figtree; Lennon Figtree: 3; {'Lennon Figtree': [3, 3, 3, 3]}; ['Lennon Figtree']
+Lennon Figtree; Lennon Figtree: 3; {'Lennon Figtree': [3, 3, 3, 3]}; ['Lennon Figtree']
+Susannah Blackburn; Susannah Blackburn: 3; {'Susannah Blackburn': [3, 3]}; ['Susannah Blackburn']
+Travis Pearson; Travis Pearson: 3; {'Travis Pearson': [3, 3, 3, 3, 3]}; ['Travis Pearson']
+Alexander White; Alexander White: 3; {'Alexander White': [3, 3, 3]}; ['Alexander White']
+Della Plumstone; Della Plumstone: 3; {'Della Plumstone': [3, 3, 3, 3, 3, 3]}; ['Della Plumstone']
+Cedric Meadowbrook; Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3, 3, 3, 3]}; ['Cedric Meadowbrook']
+Cedric Meadowbrook; Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3, 3, 3, 3]}; ['Cedric Meadowbrook']
+Susannah Blackburn; Susannah Blackburn: 3; {'Susannah Blackburn': [3, 3, 3]}; ['Susannah Blackburn']
+Alexander White; Alexander White: 3; {'Alexander White': [3, 3, 3]}; ['Alexander White']
+Susannah Blackburn; Susannah Blackburn: 3; {'Susannah Blackburn': [3, 3, 3, 3]}; ['Susannah Blackburn']
+Millicent Cartwright; Millicent Cartwright: 3; {'Millicent Cartwright': [3, 3, 3, 3, 3]}; ['Millicent Cartwright']
+Derek Wolfe; Derek Wolfe: 3; {'Derek Wolfe': [3, 3, 3, 3, 3, 3]}; ['Derek Wolfe']
+Della Plumstone; Della Plumstone: 3; {'Della Plumstone': [3, 3, 3, 3, 3, 3, 3]}; ['Della Plumstone']
+Alice Lewis; Alice Lewis: 3; {'Alice Lewis': [3, 3, 3]}; ['Alice Lewis']
+Susannah Blackburn; Susannah Blackburn: 3; {'Susannah Blackburn': [3, 3, 3, 3, 3]}; ['Susannah Blackburn']
+Millicent Cartwright; Millicent Cartwright: 3; {'Millicent Cartwright': [3, 3, 3, 3, 3, 3]}; ['Millicent Cartwright']
+Lennon Figtree; Lennon Figtree: 3; {'Lennon Figtree': [3, 3, 3, 3, 3]}; ['Lennon Figtree']
+Alice Lewis; Alice Lewis: 3; {'Alice Lewis': [3, 3, 3]}; ['Alice Lewis']
+Travis Pearson; Travis Pearson: 3; {'Travis Pearson': [3, 3, 3, 3, 3, 3]}; ['Travis Pearson']
+Lennon Figtree; Lennon Figtree: 3; {'Lennon Figtree': [3, 3, 3, 3, 3]}; ['Lennon Figtree']
+Silas Redburn; Silas Redburn: 3; {'Silas Redburn': [3, 3, 3, 3, 3]}; ['Silas Redburn']
+Ryan Fitzpatrick; Ryan Fitzpatrick: 3; {'Ryan Fitzpatrick': [3, 3, 3, 3, 3, 3]}; ['Ryan Fitzpatrick']
+Travis Pearson; Travis Pearson: 3; {'Travis Pearson': [3, 3, 3, 3, 3, 3, 3]}; ['Travis Pearson']
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Della Plumstone; Della Plumstone: 3; {'Della Plumstone': [3, 3, 3, 3, 3, 3, 3, 3]}; ['Della Plumstone']
+Susannah Blackburn; Susannah Blackburn: 3; {'Susannah Blackburn': [3, 3, 3, 3]}; ['Susannah Blackburn']
+Lennon Figtree; Lennon Figtree: 3; {'Lennon Figtree': [3, 3, 3, 3, 3, 3]}; ['Lennon Figtree']
+Lennon Figtree; Lennon Figtree: 3; {'Lennon Figtree': [3, 3, 3, 3, 3, 3]}; ['Lennon Figtree']
+Derek Wolfe; Derek Wolfe: 3; {'Derek Wolfe': [3, 3, 3, 3, 3, 3, 3]}; ['Derek Wolfe']
+Jack Taylor; Jack Taylor: 3; {'Jack Taylor': [3, 3, 3, 3]}; ['Jack Taylor']
+Silas Redburn; Silas Redburn: 3; {'Silas Redburn': [3, 3, 3, 3]}; ['Silas Redburn']
+Jack Taylor; Jack Taylor: 3; {'Jack Taylor': [3, 3, 3, 3]}; ['Jack Taylor']
+Derek Wolfe; ; {'Derek Wolfe': [3, 3, 3, 3, 3, 3, 3]}; ['Derek Wolfe']
+Alice Lewis; Alice Lewis: 3; {'Alice Lewis': [3, 3, 3, 3]}; ['Alice Lewis']
+Silas Redburn; Silas Redburn: 3; {'Silas Redburn': [3, 3, 3, 3, 3, 3]}; ['Silas Redburn']
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Cedric Meadowbrook; Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3, 3, 3, 3, 3]}; ['Cedric Meadowbrook']
+Alexander White; Alexander White: 3; {'Alexander White': [3, 3, 3, 3]}; ['Alexander White']
+Travis Pearson; Travis Pearson: 3; {'Travis Pearson': [3, 3, 3, 3, 3, 3, 3, 3]}; ['Travis Pearson']
+Susannah Blackburn; Susannah Blackburn: 3; {'Susannah Blackburn': [3, 3, 3, 3, 3]}; ['Susannah Blackburn']
+Susannah Blackburn; Susannah Blackburn: 3; {'Susannah Blackburn': [3, 3, 3, 3, 3, 3]}; ['Susannah Blackburn']
+Cedric Meadowbrook; Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3, 3, 3, 3, 3]}; ['Cedric Meadowbrook']
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Ryan Fitzpatrick; Ryan Fitzpatrick: 3; {'Ryan Fitzpatrick': [3, 3, 3, 3, 3, 3, 3]}; ['Ryan Fitzpatrick']
+Travis Pearson; Travis Pearson: 3; {'Travis Pearson': [3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Travis Pearson']
+Alexander White; Alexander White: 3; {'Alexander White': [3, 3, 3, 3]}; ['Alexander White']
+Alice Lewis; Alice Lewis: 3; {'Alice Lewis': [3, 3, 3, 3]}; ['Alice Lewis']
+Interaction involving Della Plumstone, Della Plumstone: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Silas Redburn; Silas Redburn: 3; {'Silas Redburn': [3, 3, 3, 3, 3, 3, 3]}; ['Silas Redburn']
+Millicent Cartwright; Millicent Cartwright: 3; {'Millicent Cartwright': [3, 3, 3, 3, 3, 3, 3]}; ['Millicent Cartwright']
+Cedric Meadowbrook; Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3, 3, 3, 3, 3, 3]}; ['Cedric Meadowbrook']
+Cedric Meadowbrook; Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3, 3, 3, 3, 3, 3]}; ['Cedric Meadowbrook']
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Jack Taylor; Jack Taylor: 3; {'Jack Taylor': [3, 3, 3, 3, 3]}; ['Jack Taylor']
+Alexander White; Alexander White: 3; {'Alexander White': [3, 3, 3, 3, 3]}; ['Alexander White']
+Ryan Fitzpatrick; Ryan Fitzpatrick: 3; {'Ryan Fitzpatrick': [3, 3, 3, 3, 3, 3, 3, 3]}; ['Ryan Fitzpatrick']
+Millicent Cartwright; Millicent Cartwright: 3; {'Millicent Cartwright': [3, 3, 3, 3, 3, 3, 3, 3]}; ['Millicent Cartwright']
+Silas Redburn; Silas Redburn: 3; {'Silas Redburn': [3, 3, 3, 3, 3]}; ['Silas Redburn']
+Derek Wolfe; Derek Wolfe: 3; {'Derek Wolfe': [3, 3, 3, 3, 3, 3, 3, 3]}; ['Derek Wolfe']
+Lennon Figtree; Lennon Figtree: 3; {'Lennon Figtree': [3, 3, 3, 3, 3, 3, 3]}; ['Lennon Figtree']
+Cedric Meadowbrook; Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3, 3, 3, 3, 3, 3, 3]}; ['Cedric Meadowbrook']
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Alice Lewis; Alice Lewis: 3; {'Alice Lewis': [3, 3, 3, 3, 3]}; ['Alice Lewis']
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Jack Taylor; Jack Taylor: 3; {'Jack Taylor': [3, 3, 3, 3, 3]}; ['Jack Taylor']
+Travis Pearson; Travis Pearson: 3; {'Travis Pearson': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Travis Pearson']
+Susannah Blackburn; Susannah Blackburn: 3; {'Susannah Blackburn': [3, 3, 3, 3, 3, 3, 3]}; ['Susannah Blackburn']
+Cedric Meadowbrook; Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3, 3, 3, 3, 3, 3, 3]}; ['Cedric Meadowbrook']
+Lennon Figtree; Lennon Figtree: 3; {'Lennon Figtree': [3, 3, 3, 3, 3, 3, 3]}; ['Lennon Figtree']
+Ryan Fitzpatrick; Ryan Fitzpatrick: 3; {'Ryan Fitzpatrick': [3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Ryan Fitzpatrick']
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Silas Redburn; Silas Redburn: 3; {'Silas Redburn': [3, 3, 3, 3, 3, 3]}; ['Silas Redburn']
+Alexander White; Alexander White: 3; {'Alexander White': [3, 3, 3, 3, 3]}; ['Alexander White']
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Derek Wolfe; Derek Wolfe: 3; {'Derek Wolfe': [3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Derek Wolfe']
+Ryan Fitzpatrick; Ryan Fitzpatrick: 3; {'Ryan Fitzpatrick': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Ryan Fitzpatrick']
+Alice Lewis; Alice Lewis: 3; {'Alice Lewis': [3, 3, 3, 3, 3]}; ['Alice Lewis']
+Lennon Figtree; Lennon Figtree: 3; {'Lennon Figtree': [3, 3, 3, 3, 3, 3, 3, 3]}; ['Lennon Figtree']
+Lennon Figtree; Lennon Figtree: 3; {'Lennon Figtree': [3, 3, 3, 3, 3, 3, 3, 3]}; ['Lennon Figtree']
+Susannah Blackburn; Susannah Blackburn: 3; {'Susannah Blackburn': [3, 3, 3, 3, 3, 3, 3, 3]}; ['Susannah Blackburn']
+Interaction involving Della Plumstone, Della Plumstone: 0.0, {}
+Cedric Meadowbrook; Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3, 3, 3, 3, 3, 3, 3, 3]}; ['Cedric Meadowbrook']
+Cedric Meadowbrook; Cedric Meadowbrook: 3; {'Cedric Meadowbrook': [3, 3, 3, 3, 3, 3, 3, 3]}; ['Cedric Meadowbrook']
+Silas Redburn; Silas Redburn: 3; {'Silas Redburn': [3, 3, 3, 3, 3, 3, 3]}; ['Silas Redburn']
+Travis Pearson; Travis Pearson: 3; {'Travis Pearson': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Travis Pearson']
+Jack Taylor; Jack Taylor: 3; {'Jack Taylor': [3, 3, 3, 3, 3, 3]}; ['Jack Taylor']
+Jack Taylor; Jack Taylor: 3; {'Jack Taylor': [3, 3, 3, 3, 3, 3]}; ['Jack Taylor']
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Derek Wolfe; Derek Wolfe: 3; {'Derek Wolfe': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Derek Wolfe']
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Alexander White; Alexander White: 3; {'Alexander White': [3, 3, 3, 3, 3, 3]}; ['Alexander White']
+Alice Lewis; Alice Lewis: 3; {'Alice Lewis': [3, 3, 3, 3, 3, 3]}; ['Alice Lewis']
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Travis Pearson; Travis Pearson: 3; {'Travis Pearson': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Travis Pearson']
+Ryan Fitzpatrick; Ryan Fitzpatrick: 3; {'Ryan Fitzpatrick': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Ryan Fitzpatrick']
+Alexander White; Alexander White: 3; {'Alexander White': [3, 3, 3, 3, 3, 3]}; ['Alexander White']
+Alice Lewis; Alice Lewis: 3; {'Alice Lewis': [3, 3, 3, 3, 3, 3]}; ['Alice Lewis']
+Travis Pearson; Travis Pearson: 3; {'Travis Pearson': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Travis Pearson']
+Ryan Fitzpatrick; Ryan Fitzpatrick: 3; {'Ryan Fitzpatrick': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Ryan Fitzpatrick']
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Derek Wolfe; Derek Wolfe: 3; {'Derek Wolfe': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Derek Wolfe']
+Derek Wolfe; Derek Wolfe: 3; {'Derek Wolfe': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Derek Wolfe']
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Ryan Fitzpatrick; Ryan Fitzpatrick: 3; {'Ryan Fitzpatrick': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Ryan Fitzpatrick']
+Travis Pearson; Travis Pearson: 3; {'Travis Pearson': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Travis Pearson']
+Interaction involving Ryan Fitzpatrick, Ryan Fitzpatrick: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Ryan Fitzpatrick; Ryan Fitzpatrick: 3; {'Ryan Fitzpatrick': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Ryan Fitzpatrick']
+Travis Pearson; Travis Pearson: 3; {'Travis Pearson': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Travis Pearson']
+Derek Wolfe; Derek Wolfe: 3; {'Derek Wolfe': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Derek Wolfe']
+Interaction involving Della Plumstone, Della Plumstone: 0.0, {}
+Interaction involving Della Plumstone, Della Plumstone: 0.0, {}
+Ryan Fitzpatrick; Ryan Fitzpatrick: 3; {'Ryan Fitzpatrick': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Ryan Fitzpatrick']
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Ryan Fitzpatrick; Ryan Fitzpatrick: 3; {'Ryan Fitzpatrick': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Ryan Fitzpatrick']
+Ryan Fitzpatrick; ; {'Ryan Fitzpatrick': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Ryan Fitzpatrick']
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Ryan Fitzpatrick; Ryan Fitzpatrick: 3; {'Ryan Fitzpatrick': [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]}; ['Ryan Fitzpatrick']
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Della Plumstone, Della Plumstone: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Millicent Cartwright, Millicent Cartwright: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Della Plumstone, Della Plumstone: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Millicent Cartwright, Millicent Cartwright: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Ryan Fitzpatrick, Ryan Fitzpatrick: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Della Plumstone, Della Plumstone: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Della Plumstone, Della Plumstone: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Millicent Cartwright, Millicent Cartwright: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Della Plumstone, Della Plumstone: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Millicent Cartwright, Millicent Cartwright: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Della Plumstone, Della Plumstone: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Della Plumstone, Della Plumstone: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Della Plumstone, Della Plumstone: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Ryan Fitzpatrick, Ryan Fitzpatrick: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Millicent Cartwright, Millicent Cartwright: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Della Plumstone, Della Plumstone: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Millicent Cartwright, Millicent Cartwright: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Della Plumstone, Della Plumstone: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Lennon Figtree, Lennon Figtree: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Cedric Meadowbrook, Cedric Meadowbrook: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Ryan Fitzpatrick, Ryan Fitzpatrick: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Alice Lewis, Alice Lewis: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Alexander White, Alexander White: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Jack Taylor, Jack Taylor: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Millicent Cartwright, Millicent Cartwright: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Millicent Cartwright, Millicent Cartwright: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Ryan Fitzpatrick, Ryan Fitzpatrick: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Ryan Fitzpatrick, Ryan Fitzpatrick: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Ryan Fitzpatrick, Ryan Fitzpatrick: 0.0, {}
+Interaction involving Millicent Cartwright, Millicent Cartwright: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Millicent Cartwright, Millicent Cartwright: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Ryan Fitzpatrick, Ryan Fitzpatrick: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Millicent Cartwright, Millicent Cartwright: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Millicent Cartwright, Millicent Cartwright: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Millicent Cartwright, Millicent Cartwright: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Ryan Fitzpatrick, Ryan Fitzpatrick: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Millicent Cartwright, Millicent Cartwright: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Derek Wolfe, Derek Wolfe: 0.0, {}
+Interaction involving Millicent Cartwright, Millicent Cartwright: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Ryan Fitzpatrick, Ryan Fitzpatrick: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Ryan Fitzpatrick, Ryan Fitzpatrick: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Susannah Blackburn, Susannah Blackburn: 0.0, {}
+Interaction involving Millicent Cartwright, Millicent Cartwright: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}
+Interaction involving Ryan Fitzpatrick, Ryan Fitzpatrick: 0.0, {}
+Interaction involving Silas Redburn, Silas Redburn: 0.0, {}
+Interaction involving Travis Pearson, Travis Pearson: 0.0, {}

@@ -1,0 +1,15 @@
+{
+  "scenario": "pub_coordination_0",
+  "focal_agent": "utilitarian_agent",
+  "background_agent": "rational_agent",
+  "focal_per_capita_score": 1.0833333333333333,
+  "background_per_capita_score": 1.4,
+  "ungrouped_per_capita_score": 1.1625,
+  "simulation_outcomes": [],
+  "focal_is_resident": true,
+  "api_type": "together_ai",
+  "model": "google/gemma-2-27b-it",
+  "embedder": "all-mpnet-base-v2",
+  "disable_language_model": false,
+  "exclude_from_elo_calculation": false
+}

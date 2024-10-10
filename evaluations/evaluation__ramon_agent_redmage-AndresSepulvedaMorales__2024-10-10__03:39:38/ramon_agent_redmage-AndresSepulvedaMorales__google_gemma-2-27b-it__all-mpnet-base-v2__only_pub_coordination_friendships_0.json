@@ -1,0 +1,15 @@
+{
+  "scenario": "pub_coordination_friendships_0",
+  "focal_agent": "ramon_agent_redmage-AndresSepulvedaMorales",
+  "background_agent": "rational_agent",
+  "focal_per_capita_score": 1.8333333333333333,
+  "background_per_capita_score": 1.9333333333333331,
+  "ungrouped_per_capita_score": 1.8583333333333334,
+  "simulation_outcomes": [],
+  "focal_is_resident": true,
+  "api_type": "together_ai",
+  "model": "google/gemma-2-27b-it",
+  "embedder": "all-mpnet-base-v2",
+  "disable_language_model": false,
+  "exclude_from_elo_calculation": false
+}

@@ -1,0 +1,15 @@
+{
+  "scenario": "labor_collective_action__rational_boss_0",
+  "focal_agent": "rational_gem_29_09",
+  "background_agent": "rational_agent",
+  "focal_per_capita_score": 6.0,
+  "background_per_capita_score": 6.0,
+  "ungrouped_per_capita_score": 6.0,
+  "simulation_outcomes": [],
+  "focal_is_resident": true,
+  "api_type": "together_ai",
+  "model": "google/gemma-2-27b-it",
+  "embedder": "all-mpnet-base-v2",
+  "disable_language_model": false,
+  "exclude_from_elo_calculation": false
+}
