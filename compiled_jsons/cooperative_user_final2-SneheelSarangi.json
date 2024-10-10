@@ -1,0 +1,17 @@
+[
+  {
+    "scenario": "haggling_1",
+    "focal_agent": "cooperative_user_final2-SneheelSarangi",
+    "background_agent": "rational_agent",
+    "focal_per_capita_score": 3.0,
+    "background_per_capita_score": 5.0,
+    "ungrouped_per_capita_score": 4.333333333333333,
+    "simulation_outcomes": [],
+    "focal_is_resident": false,
+    "api_type": "together_ai",
+    "model": "google/gemma-2-27b-it",
+    "embedder": "all-mpnet-base-v2",
+    "disable_language_model": false,
+    "exclude_from_elo_calculation": false
+  }
+]
